@@ -1,0 +1,39 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Orbitron&display=swap');
+
+:root {
+    font-family: orbitron;
+}
+
+span {
+    font-weight: 700;
+    font-style: normal;
+}
+
+h1 {
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+#series-movies {
+    font-size: 20px;
+}
+
+h2 {
+    font-size: 4em;
+}
+
+li {
+    line-height: 2;
+}
+
+#character {
+    font-size: 18px;
+}
+
+h4 {letter-spacing: 15px;}
